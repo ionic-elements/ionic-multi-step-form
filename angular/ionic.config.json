@@ -1,7 +1,0 @@
-{
-  "name": "ionic-multi-step-form",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
