@@ -1,0 +1,7 @@
+{
+  "name": "ionic-multi-step-form-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

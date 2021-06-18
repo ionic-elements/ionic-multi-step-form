@@ -1,0 +1,7 @@
+{
+  "name": "ionic-multi-step-form-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
